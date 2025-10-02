@@ -2,7 +2,7 @@
 
 I'm a **MERN Stack Developer** passionate about building modern web applications and solving real-world problems with code.  
 
-- 🎓 **Education:** Bachelor of Science in Computer Science, Dyal Singh College, Delhi University  
+- 🎓 **Education:** Bachelor of Science in Computer Science,Deen Dyal Upadhayay College, Delhi University  
 - ✅ **Worked On Projects:** **Fitness Buddy**, **VolunteerHub**, **LetsChat**, **Quizzes Application**  
 - 🌱 **Learning:** Advanced ReactJS, Data Structures & Algorithms (DSA)  
 - 💻 **Skills:**  
