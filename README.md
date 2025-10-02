@@ -9,7 +9,7 @@ I'm a **MERN Stack Developer** passionate about building modern web applications
   - **Frontend:** HTML, CSS, JavaScript, ReactJS  
   - **Backend:** NodeJS, ExpressJS, MongoDB  
   - **Other Tools:** Firebase, Git, GitHub  
-  - **Problem Solving:** DSA, Algorithms, Competitive Programming  
+  - **Problem Solving:** Data Strcuture and Algorithm
 - 📫 **Reach Me:** [Portfolio](https://anjali20.netlify.app)  
 
 ![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjali80590&show_icons=true&theme=react)
